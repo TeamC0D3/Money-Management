@@ -1,6 +1,7 @@
 # Money-Management
 
 README
+
 Our app is a money management system which tracks  income on a month to month basis, and calculates if certain expenditures are necessary.
 
 We have created three parts: A back-end python program, a visual graph, and a GUI(delete?).
