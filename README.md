@@ -2,7 +2,7 @@
 
 README
 
-Our app is a money management system which tracks  income on a month to month basis, and calculates if certain expenditures are necessary.
+Our app is a money management system which tracks income on a month to month basis, and calculates if certain expenditures are necessary.
 
 We have created 2 parts: A back-end python program, a visual graph depicting the user's balance over a time period.
 
@@ -43,3 +43,5 @@ Once all the libraries have finished downloading, you can now run the program.
 Make sure your terminal is in the correct path for the program to properly run. 
 To run the app, type the following in the terminal:
     python MoneyManager.py
+
+Congratulations! You can now use our program.
