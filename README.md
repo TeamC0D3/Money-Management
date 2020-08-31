@@ -12,3 +12,17 @@ The visual graph uses updated input from the python program to consistently upda
 of time.
 
 The GUI is an interactive platform which allows users to take advantage of our program and efficiently manage their money. 
+
+EXPLANATION
+
+To run the code, you will need to first download some things:
+ - PyCharm (Latest Version)
+ - The matplotlib Module
+ - The textblob Module
+
+To download PyCharm:
+- Go to: https://www.jetbrains.com/pycharm/download/#section=windows
+- Click the download button and follow the instructions to download.
+
+Once PyCharm is downloaded:
+
