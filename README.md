@@ -35,6 +35,7 @@ To install the Modules:
     python -m pip install -U matplotlib
 - This will install all the necessary libraries for matplotlib to function.
 - In the terminal, type the following:
+    pip install -U textblob
     python -m textblob.download_corpora
 - Now wait for the Module to download.
 - Excpect several command line statements.
